@@ -7,3 +7,9 @@
 /HybridConnectionWebSocket/Listener/obj
 /HybridConnectionWebSocket/Sender/bin/Debug/netcoreapp2.2
 /HybridConnectionWebSocket/Sender/obj
+/AzureRelayHTTP/.vs/AzureRelayHTTP/v15/Server/sqlite3
+/AzureRelayHTTP/Listener/bin/Debug/netcoreapp2.2
+/AzureRelayHTTP/Listener/obj
+/AzureRelayHTTP/Sender/bin/Debug/netcoreapp2.2
+/AzureRelayHTTP/Sender/obj
+/HybridConnectionWebSocket/.vs/HybridConnectionWebSocket/v15
