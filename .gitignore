@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HybridConnectionWebSocket/.vs/HybridConnectionWebSocket/v15/Server/sqlite3
+/HybridConnectionWebSocket/Listener/bin/Debug/netcoreapp2.2
+/HybridConnectionWebSocket/Listener/obj
+/HybridConnectionWebSocket/Sender/bin/Debug/netcoreapp2.2
+/HybridConnectionWebSocket/Sender/obj
