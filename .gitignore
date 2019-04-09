@@ -13,3 +13,11 @@
 /AzureRelayHTTP/Sender/bin/Debug/netcoreapp2.2
 /AzureRelayHTTP/Sender/obj
 /HybridConnectionWebSocket/.vs/HybridConnectionWebSocket/v15
+/AzureRelayHTTP/.vs/AzureRelayHTTP/v15
+/AzureRelayWCF/.vs/AzureRelayWCF/v15/Server/sqlite3
+/AzureRelayWCF/WcfClient/bin/Debug
+/AzureRelayWCF/WcfClient/obj/Debug
+/AzureRelayWCF/WcfContrats/bin/Debug
+/AzureRelayWCF/WcfContrats/obj/Debug
+/AzureRelayWCF/WcfListenerConsole/bin/Debug
+/AzureRelayWCF/WcfListenerConsole/obj/Debug
